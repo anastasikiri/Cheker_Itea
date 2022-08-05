@@ -1,0 +1,6 @@
+framework module Pods_Checker_ITEA {
+  umbrella header "Pods-Checker_ITEA-umbrella.h"
+
+  export *
+  module * { export * }
+}
